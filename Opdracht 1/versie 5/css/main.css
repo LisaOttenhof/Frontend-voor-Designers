@@ -1,0 +1,152 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+}
+
+main{
+  margin-top: 4em;
+  margin-bottom: 4em;
+  width: 84%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  margin-top: 1.5em;
+  margin-left: .5em;
+  font-size: 2em;
+  align-self: center;
+}
+
+h2{
+  margin-left: 1em;
+  font-size: 1.2em;
+  margin-bottom: 1.3em;
+  margin-left: 4em;
+}
+
+h3{
+  font-size: 1.5em;
+  margin-left: .5em;
+}
+
+legend{
+  margin-bottom: 1.5em;
+  font-size: 1.1em;
+}
+
+main>form{
+  background-color: rgba(121, 116, 116, .25);
+  box-shadow: 0 .125rem 0 0 rgba(121, 116, 116, .15);
+  width: 97%;
+  margin-top: 2em;
+  padding: .5em 1em 1em 1em;
+}
+
+main>form>fieldset{
+  border: 0;
+  margin-left: 4em;
+}
+
+main>form>fieldset>label{
+  padding: .35em 2em;
+  border-radius: .15em;
+  font-size: 1.1em;
+}
+
+main>form>fieldset>label:not(:last-of-type){
+  margin-right: 3em;
+}
+
+main>form>fieldset>label:first-of-type{
+  background-color: #999999;
+  border: solid .15em #999999;
+}
+
+main>form>fieldset>label:first-of-type:hover{
+  border: solid .15em #808080;
+}
+
+main>form>fieldset>input:first-of-type:checked + label{
+  border: solid .15em #808080;
+  background-color: #808080;
+  color: white;
+}
+
+
+main>form>fieldset>label:nth-of-type(2){
+  background-color: #ff4d4d;
+  border: solid .15em #ff4d4d;
+}
+
+main>form>fieldset>label:nth-of-type(2):hover{
+  border: solid .15em #ff0000;
+}
+
+main>form>fieldset>input:nth-of-type(2):checked + label{
+  border: solid .15em #ff0000;
+  background-color: #ff0000;
+  color: white;
+}
+
+
+main>form>fieldset>label:nth-of-type(3){
+  background-color: #5dd55d;
+  border: solid .15em #5dd55d;
+}
+
+main>form>fieldset>label:nth-of-type(3):hover{
+  border: solid .15em #2fb62f;
+}
+
+main>form>fieldset>input:nth-of-type(3):checked + label{
+  border: solid .15em #2fb62f;
+  background-color: #2fb62f;
+  color: white;
+}
+
+
+main>form>fieldset>label:nth-of-type(4){
+  background-color: #ffcc00;
+  border: solid .15em #ffcc00;
+}
+
+main>form>fieldset>label:nth-of-type(4):hover{
+  border: solid .15em #e6b800;
+}
+
+main>form>fieldset>input:nth-of-type(4):checked + label{
+  border: solid .15em #e6b800;
+  background-color: #e6b800;
+  color: white;
+}
+
+
+main>form>fieldset>label:nth-of-type(5){
+  background-color: #33ccff;
+  border: solid .15em #33ccff;
+}
+
+main>form>fieldset>label:nth-of-type(5):hover{
+  border: solid .15em #00ace6;
+}
+
+main>form>fieldset>input:nth-of-type(5):checked + label{
+  border: solid .15em #00ace6;
+  background-color: #00ace6;
+  color: white;
+}
+
+main>form>fieldset>input{
+  display: none;
+}
+
+main>section{
+  margin-top: 3em;
+}
+
+main>section>img{
+  width: 33%;
+  height: auto;
+}
