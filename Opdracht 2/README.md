@@ -2,6 +2,6 @@ Bij opdracht 2 is het de bedoeling dat je een carousel maakt waarbij je door ver
 
 De linkjes naar de verschillende versies:
 
-Versie 1
+[Versie 1](https://github.com/LisaOttenhof/Frontend-voor-Designers/tree/master/Opdracht%202/versie%201)
 
-Versie 2
+[Versie 2](https://github.com/LisaOttenhof/Frontend-voor-Designers/tree/master/Opdracht%202/versie%202)
