@@ -1,0 +1,60 @@
+body{
+  font-family: 'helvetica', sans-serif;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header{
+  text-align: center;
+}
+
+.carouselbox{
+  font-family: 'helvetica' ,sans-serif;
+  width: 30em;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  border: 0.063em solid #ccc;
+  box-shadow: 0.125em 0.125em 0.625em #ccc;
+  overflow: hidden;
+}
+.carouselcontent {
+  margin: 0;
+  padding: 0;
+}
+.carouselcontent img{
+  margin: 0 .5em 0 .5em;
+  padding: 0;
+  width: 96.8%;
+}
+
+
+.active {
+  height: 27.5em;
+}
+.active img{
+  position: absolute;
+  top: 27.5em;
+}
+.active img.zichtbaar{
+  top: 3em;
+}
+
+
+.active .buttons {
+  padding: 1em 0;
+  background: white;
+  text-align: center;
+  z-index: 10;
+  position: relative;
+
+}
+.carouselbox button {
+  border: none;
+  display: none;
+  font-size: 1em;
+}
+.active button {
+  display: inline;
+}

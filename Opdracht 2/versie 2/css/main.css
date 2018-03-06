@@ -1,0 +1,89 @@
+
+body{
+  font-family: 'helvetica', sans-serif;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header{
+  text-align: center;
+}
+
+
+/*---------------------------  carousel  ---------------------------*/
+
+.carouselbox{
+  width: 30em;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  border: 0.063em solid #ccc;
+  box-shadow: 0.125em 0.125em 0.625em #ccc;
+  overflow: hidden;
+}
+
+.carouselcontent{
+  margin: 0;
+  padding: 0;
+}
+
+.carouselcontent img{
+  margin: 0 .5em 0 .5em;
+  padding: 0;
+  width: 96.8%;
+}
+
+/*------------  images  ------------*/
+.active{
+  height: 27.5em;
+}
+
+.active img{
+  position: absolute;
+  top: 27.5em;
+}
+
+.active img.zichtbaar{
+  top: 3em;
+}
+
+/*------------  carousel buttons  ------------*/
+.active .buttons {
+  padding: 1em 0;
+  background: white;
+  text-align: center;
+  z-index: 10;
+  position: relative;
+
+}
+.carouselbox button {
+  border: none;
+  display: none;
+  font-size: 1em;
+}
+
+.active button {
+  display: inline;
+}
+
+/*------------  carousel bolletjes  ------------*/
+main>section>div:nth-of-type(3){
+  position: fixed;
+  display: flex;
+  margin-left: 11em;
+  margin-top: 21.5em;
+}
+
+p{
+  background-color: grey;
+  margin: .5em;
+  margin-bottom: 1em;
+  width: .7em;
+  height: .7em;
+  border-radius: 3em;
+}
+
+p.fotozichtbaar{
+  background-color: black;
+}
