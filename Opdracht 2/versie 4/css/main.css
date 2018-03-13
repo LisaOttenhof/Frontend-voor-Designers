@@ -1,0 +1,118 @@
+
+body{
+  font-family: 'helvetica', sans-serif;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  transform: scale(1.4);
+}
+
+header{
+  text-align: center;
+  margin-top: 11em;
+  font-size: .75em;
+}
+
+main{
+  margin-top: -3em;
+}
+
+
+/*---------------------------  carousel  ---------------------------*/
+
+.carouselbox{
+  width: 30em;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.carouselcontent{
+  margin: 0;
+  padding: 0;
+}
+
+.carouselcontent img{
+  margin: 0 .5em 0 .5em;
+  padding: 0;
+  width: 96.8%;
+}
+
+/*------------  images  ------------*/
+.active{
+  height: 27.5em;
+}
+
+.active img{
+  position: absolute;
+  top: 27.5em;
+  transition: all .5s;
+}
+
+.active img.zichtbarefoto{
+  top: 3em;
+}
+
+.active img.volgendefoto{
+  top: 3em;
+  margin-left: 30em;
+}
+
+.active img.vorigefoto{
+  top: 3em;
+  margin-left: -30em;
+}
+
+/*------------  carousel buttons  ------------*/
+.active .buttons {
+  padding: 1em 0;
+  background: none;
+  text-align: center;
+  z-index: 10;
+  position: relative;
+
+}
+.carouselbox button {
+  border: none;
+  display: inline;
+  font-size: 1.3em;
+  background-color: lightgrey;
+  width: 2em;
+  height: 2em;
+  border-radius: 3em;
+}
+
+button.vorige{
+  position: fixed;
+  margin-left: -12.5em;
+  margin-top: 9em;
+}
+
+button.volgende{
+  position: fixed;
+  margin-left: 10.5em;
+  margin-top: 9em;
+}
+
+
+/*------------  carousel bolletjes  ------------*/
+main>section>div:nth-of-type(3){
+  position: fixed;
+  display: flex;
+  margin-left: 11em;
+  margin-top: 23em;
+}
+
+p{
+  background-color: lightgrey;
+  margin: .5em;
+  margin-bottom: 1em;
+  width: .65em;
+  height: .65em;
+  border-radius: 3em;
+}
+
+p.fotozichtbaar{
+  background-color: black;
+}
