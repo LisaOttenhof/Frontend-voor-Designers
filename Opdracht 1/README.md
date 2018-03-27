@@ -1,7 +1,7 @@
 
 Voor deze opdracht heb ik een fotogalerie gemaakt waarin je de foto’s kan filteren op kleur. Het is de bedoeling dat deze galerie het doet in een browser op een device naar keuze, ik heb gekozen voor safari op een laptop. Ik heb door middel van testen verschillende versie’s van de fotogalerie gemaakt. Ik heb tijdens het testen rekening gehouden met 2 user interface principes: keep users in control & strong visual hierarchies work best. 
 
-Ik ben begonnen met [versie 1](https://github.com/LisaOttenhof/Frontend-voor-Designers/tree/master/Opdracht%201/versie%201) & [versie 2](https://github.com/LisaOttenhof/Frontend-voor-Designers/tree/master/Opdracht%201/versie%202):
+Ik ben begonnen met [versie 1](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%201/versie%201) & [versie 2](https://github.com/LisaOttenhof/Frontend-voor-Designers/tree/master/Opdracht%201/versie%202):
 In versie 1 heb ik de filter optie gemaakt door checkboxen te gebruiken, ik heb getest of dit werkte en het leek op het eerste gezicht goed te werken dus ben ik, in versie 2, de filter gaan stylen met css.
 Na wat dieper testen kwam ik erachter dat checkboxes voor een probleem zorgde, namelijk dat je ze eerst moest onselecteren voordat je een andere optie selecteerde anders werkte de filter niet meer. 
 
