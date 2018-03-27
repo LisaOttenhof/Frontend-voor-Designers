@@ -19,4 +19,4 @@ In [versie 5](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%20
 Ook kreeg ik tijdens het feedback moment de tip om de filter altijd in beeld te laten, dit heb ik in [versie 6](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%201/versie%206) uitgetest. 
 In versie 6 heb ik gezegd dat je horizontaal door de foto’s kan scrollen zodat de filter altijd in beeld blijft.   
 
-Door aan mede studenten te vragen wat ze beter vonden werken, versie 5 of 6, is versie 6 de eindversie voor opdracht 1 is. 
+Door aan mede studenten te vragen wat ze beter vonden werken, versie 5 of 6, is versie 5 de eindversie voor opdracht 1 is. 
