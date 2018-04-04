@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Movie's</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+  <header>
+      <h1>Watch a movie</h1>
+      <div>
+        <button type="button" name="filter">Choose a genre</button>
+        <div class="emotie_dropdown_noshow">
+          <input type="radio" id="allgenres" value="allgenres" name="genre" checked>
+          <label for="allgenres">All genres</label>
+          <input type="radio" id="action" value="action" name="genre">
+          <label for="action">Action</label>
+          <input type="radio" id="adventure" value="adventure" name="genre">
+          <label for="adventure">Adventure</label>
+          <input type="radio" id="crime" value="crime" name="genre">
+          <label for="crime">Crime</label>
+          <input type="radio" id="drama" value="drama" name="genre">
+          <label for="drama">Drama</label>
+          <input type="radio" id="horror" value="horror" name="genre">
+          <label for="horror">Horror</label>
+          <input type="radio" id="thriller" value="thriller" name="genre">
+          <label for="thriller">Thriller</label>
+        </div>
+      </div>
+  </header>
+
+  <h2>Popular movies </h2>
+  <div class="carouselbox" >
+        <img id="foto1" class="vorigefoto" src="http://ia.media-imdb.com/images/M/MV5BNTQ3OTkwNTgyN15BMl5BanBnXkFtZTcwNTAzOTAzOQ@@._V1_SX214_.jpg" alt="">
+
+        <img id="foto2" class="zichtbarefoto" src="http://ia.media-imdb.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX214_.jpg" alt="">
+
+        <img id="foto3" class="volgendefoto" src="http://ia.media-imdb.com/images/M/MV5BMjEyMjcyNDI4MF5BMl5BanBnXkFtZTcwMDA5Mzg3OA@@._V1_SX214_.jpg" alt="">
+    </div>
+    <div class="buttons">
+      <button class="vorige">&#10094;</button>
+      <button class="volgende">&#10095;</button>
+    </div>
+    <div class="bolletjes">
+        <p id="bol1" class="indicator"></p>
+        <p id="bol2"></p>
+        <p id="bol3"></p>
+    </div>
+
+  <h2>All movies </h2>
+
+  <section>
+
+  </section>
+
+  <script src="js/main.js"></script>
+  <script src="js/carousel.js"></script>
+  <script src="js/filter.js"></script>
+</body>
+
+</html>
