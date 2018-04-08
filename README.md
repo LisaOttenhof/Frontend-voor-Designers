@@ -6,4 +6,4 @@ Het vak bestaat uit 3 opdrachten:
 
 [Opdracht 2](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%202)
 
-[Opdracht 3](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203)
+[Opdracht 3](https://lisaottenhof.github.io/Frontend-voor-Designers/tree/master/Opdracht%203)
