@@ -2,7 +2,7 @@
 var header = document.querySelector('header');
 var section = document.querySelector('section');
 
-var requestURL = 'https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v3/movies.json';
+var requestURL = 'https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v3/json/movies.json';
 var request = new XMLHttpRequest();
 
 
