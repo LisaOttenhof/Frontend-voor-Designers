@@ -28,3 +28,10 @@ Met deze versie heb ik gaan testen. Uit deze testen kwam dat het verwarrend was 
 Deze feedback heb ik in de 7de versie verwerkt. In deze versie veranderd de tekst van de button in 'Minder informatie' en terug naar 'Meer informatie' als er op geklikt wordt. 
 
 [versie 7](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%207)
+
+Omdat github geen JSON files met http ondersteund niet nogmaals de 7de versie.
+
+[versie 7](http://tomwesterhof.nl/frontend-lisa/)
+
+
+
