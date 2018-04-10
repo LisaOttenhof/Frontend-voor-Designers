@@ -23,7 +23,7 @@ In versie 6 heb ik 'Meer informatie' button werkend gemaakt.
 
 [versie 6](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%206)
 
-Met deze versie heb ik gaan testen. Uit deze testen kwam dat het verwarrend was dat de 'Meer informatie' button niet van tekst veranderde. Het leek daardoor als je niet weg kon uit meer informatie. 
+Met deze versie heb ik gaan testen. Uit deze testen kwam dat het verwarrend was dat de 'Meer informatie' button niet van tekst veranderde. Het leek daardoor als je niet weg kon uit meer informatie. Ook kreeg ik de feedback dat het vreemd was dat de 'Meer informatie' button opeens boven de tekst staat in plaats van onder de tekst. Dit heb ik ook aangepast. 
 
 Deze feedback heb ik in de 7de versie verwerkt. In deze versie veranderd de tekst van de button in 'Minder informatie' en terug naar 'Meer informatie' als er op geklikt wordt. 
 
