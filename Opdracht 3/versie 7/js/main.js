@@ -53,7 +53,6 @@ request.onload = function(){
     article.appendChild(h42);
     article.appendChild(img);
     article.appendChild(p);
-    article.appendChild(button);
     article.appendChild(footer);
     article.appendChild(h5);
     article.appendChild(footer2);
@@ -62,6 +61,7 @@ request.onload = function(){
     article.appendChild(footer4);
     article.appendChild(footer5);
     article.appendChild(footer6);
+    article.appendChild(button);
 
     section.appendChild(article);
   }
