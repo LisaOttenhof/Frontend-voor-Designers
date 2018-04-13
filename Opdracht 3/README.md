@@ -14,7 +14,7 @@ Ik heb verschillende versies gemaakt om deze opdracht uit te voeren. In versie 1
 > [Versie 3](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%203)
 
 Na de derde versie ben ik gaan testen en heb ik feedback gekregen. Uit de feedback kwamen een aantal punten naar voren.
-Het zou leuk zijn als de indicator bolletjes bij de carousel ook klikbaar zouden worden. En het zou fijner zijn om naar te kijken als er nog animatie en transistie werd toegevoegd. Daarnaast wilde ik zelf de filter en de 'Meer informatie' button werkend maken. 
+Het zou leuk zijn als de indicator bolletjes bij de carousel ook klikbaar zouden worden. En het zou fijner zijn om naar te kijken als er nog animatie en transistie werd toegevoegd. Daarnaast wilde ik zelf de filter en de 'Meer informatie' button werkend maken.
 
 
 ### Versie 4, 5 & 6
@@ -31,6 +31,7 @@ In versie 6 heb ik 'Meer informatie' button werkend gemaakt.
 
 > [Versie 6](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%206)
 
+
 ### Versie 7
 
 Met deze 6de versie heb ik gaan testen. Uit deze testen kwam dat het verwarrend was dat de 'Meer informatie' button niet van tekst veranderde. Het leek daardoor als je niet weg kon uit meer informatie. Ook kreeg ik de feedback dat het vreemd was dat de 'Meer informatie' button opeens boven de tekst staat in plaats van onder de tekst, waar hij eerst ook staat. Dit heb ik ook aangepast. 
@@ -39,9 +40,20 @@ Deze feedback heb ik in de 7de versie verwerkt. In deze versie veranderd de teks
 
 > [Versie 7](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%207)
 
-Omdat github geen JSON files met http ondersteund niet nogmaals de 7de versie.
+Omdat github geen JSON files met http ondersteund niet nogmaals de 7de versie mocht de github versie niet werken.
 
 > [Versie 7](http://tomwesterhof.nl/frontend-lisa/)
 
+#### Principes toegepast
 
+_Principe 4: Keep users in control_
 
+d
+
+_Principe 9: Appearance follows behavior_
+
+d
+
+_Principe 11: Strong visual hierarchies work best_
+
+d
