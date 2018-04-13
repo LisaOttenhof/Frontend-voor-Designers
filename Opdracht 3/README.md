@@ -53,16 +53,17 @@ Omdat github geen JSON files met http ondersteund niet nogmaals de 7de versie mo
 
 Tijdens deze opdracht heb ik rekening gehouden met 3 interface design principles. 
 
-### _Principe 4: Keep users in control_
+
+#### Principe 4: Keep users in control
 
 d
 
 
-### _Principe 9: Appearance follows behavior_
+#### Principe 9: Appearance follows behavior
 
 d
 
 
-### _Principe 11: Strong visual hierarchies work best_
+#### Principe 11: Strong visual hierarchies work best
 
 d
