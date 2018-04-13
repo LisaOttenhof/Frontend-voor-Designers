@@ -6,7 +6,7 @@ Voor opdracht 3 bestond uit een aantal punten. Het inladen van een JSON file met
 
 ### Versie 1, 2 & 3
 
-Ik heb verschillende versies gemaakt om deze opdracht uit te voeren. In versie 1 heb ik gefocust op het inladen van de informatie uit de JSON file en de eerste opmaak van de filmsite. In versie twee heb ik de carousel toegevoegd aan mijn ontwerp en in opdracht 3 heb ik de filter en iconen aan de site toegevoegd.
+Ik heb verschillende versies gemaakt om deze opdracht uit te voeren. In versie 1 heb ik gefocust op het inladen van de informatie uit de JSON file en de eerste opmaak van de filmsite. In versie twee heb ik de carousel toegevoegd aan mijn ontwerp en in versie 3 heb ik de filter en iconen aan de site toegevoegd.
 
 > [Versie 1](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%201)
 
