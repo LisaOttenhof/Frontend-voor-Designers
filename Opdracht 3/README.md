@@ -28,19 +28,19 @@ Het zou leuk zijn als de indicator bolletjes bij de carousel ook klikbaar zouden
 
 Ik ben begonnen met het werkend maken van de filter en het toevoegen van animatie, dit heb ik gedaan in versie 4.
 
-<img src=images/versie4.png width="400">  
+<img src=images/versie4.png width="430">  
 
 > [Versie 5](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%205)
 
 Daarna ben ik verder gegaan met versie 5, in deze versie heb ik de indicators van de carousel klikbaar gemaakt.
 
-<img src=images/versie5.png width="400">
+<img src=images/versie5.png width="430">
 
 > [Versie 6](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%206)
 
 In versie 6 heb ik 'Meer informatie' button werkend gemaakt. 
 
-<img src=images/versie6-info.png width="400">
+<img src=images/versie6-info.png width="430">
 
 
 
