@@ -24,17 +24,23 @@ Het zou leuk zijn als de indicator bolletjes bij de carousel ook klikbaar zouden
 
 ### Versie 4, 5 & 6
 
-Ik ben begonnen met het werkend maken van de filter en het toevoegen van animatie, dit heb ik gedaan in versie 4.
-
 > [Versie 4](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%204)
 
-Daarna ben ik verder gegaan met versie 5, in deze versie heb ik de indicators van de carousel klikbaar gemaakt. 
+Ik ben begonnen met het werkend maken van de filter en het toevoegen van animatie, dit heb ik gedaan in versie 4.
+
+<img src=images/versie4.png width="400">  
 
 > [Versie 5](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%205)
 
-In versie 6 heb ik 'Meer informatie' button werkend gemaakt. 
+Daarna ben ik verder gegaan met versie 5, in deze versie heb ik de indicators van de carousel klikbaar gemaakt.
+
+<img src=images/versie5.png width="400">
 
 > [Versie 6](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%206)
+
+In versie 6 heb ik 'Meer informatie' button werkend gemaakt. 
+
+<img src=images/versie6-info.png width="400">
 
 
 
@@ -46,9 +52,15 @@ Deze feedback heb ik in de 7de versie verwerkt. In deze versie veranderd de teks
 
 > [Versie 7](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%207)
 
+<img src=images/versie7.png> 
+
+<img src=images/versie7-info.png width="430"> <img src=images/versie7-infolang.png width="430">
+
+
 Omdat github geen JSON files met http ondersteund niet nogmaals de 7de versie mocht de github versie niet werken.
 
 > [Versie 7](http://tomwesterhof.nl/frontend-lisa/)
+
 
 
 
