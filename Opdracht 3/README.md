@@ -4,15 +4,18 @@ Voor opdracht 3 bestond uit een aantal punten. Het inladen van een JSON file met
 
 
 
+
 ### Versie 1, 2 & 3
 
 Ik heb verschillende versies gemaakt om deze opdracht uit te voeren. In versie 1 heb ik gefocust op het inladen van de informatie uit de JSON file en de eerste opmaak van de filmsite. In versie twee heb ik de carousel toegevoegd aan mijn ontwerp en in versie 3 heb ik de filter en iconen aan de site toegevoegd.
 
-> [Versie 1](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%201)
+> [Versie 1](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%201) 
 
 > [Versie 2](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%202)
 
 > [Versie 3](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%203)
+
+<img scr "images/versie1.png"> <img scr "images/versie2.png"> <img scr "images/versie3.png">
 
 Na de derde versie ben ik gaan testen en heb ik feedback gekregen. Uit de feedback kwamen een aantal punten naar voren.
 Het zou leuk zijn als de indicator bolletjes bij de carousel ook klikbaar zouden worden. En het zou fijner zijn om naar te kijken als er nog animatie en transistie werd toegevoegd. Daarnaast wilde ik zelf de filter en de 'Meer informatie' button werkend maken.
