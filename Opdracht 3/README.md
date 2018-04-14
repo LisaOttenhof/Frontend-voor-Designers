@@ -15,7 +15,10 @@ Ik heb verschillende versies gemaakt om deze opdracht uit te voeren. In versie 1
 
 > [Versie 3](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%203)
 
-<img scr "images/versie1.png"> <img scr "images/versie2.png"> <img scr "images/versie3.png">
+![Versie 1](https://github.com/LisaOttenhof/Frontend-voor-Designers/blob/master/Opdracht%203/images/versie1.png)![Versie 2](https://github.com/LisaOttenhof/Frontend-voor-Designers/blob/master/Opdracht%203/images/versie2.png)![Versie 3](https://github.com/LisaOttenhof/Frontend-voor-Designers/blob/master/Opdracht%203/images/versie3.png)
+
+
+
 
 Na de derde versie ben ik gaan testen en heb ik feedback gekregen. Uit de feedback kwamen een aantal punten naar voren.
 Het zou leuk zijn als de indicator bolletjes bij de carousel ook klikbaar zouden worden. En het zou fijner zijn om naar te kijken als er nog animatie en transistie werd toegevoegd. Daarnaast wilde ik zelf de filter en de 'Meer informatie' button werkend maken.
