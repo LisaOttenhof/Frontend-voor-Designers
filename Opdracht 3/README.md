@@ -11,11 +11,16 @@ Ik heb verschillende versies gemaakt om deze opdracht uit te voeren. In versie 1
 
 > [Versie 1](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%201) 
 
+![Versie 1](https://github.com/LisaOttenhof/Frontend-voor-Designers/blob/master/Opdracht%203/images/versie1.png)
+
 > [Versie 2](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%202)
+
+![Versie 2](https://github.com/LisaOttenhof/Frontend-voor-Designers/blob/master/Opdracht%203/images/versie2.png)
 
 > [Versie 3](https://lisaottenhof.github.io/Frontend-voor-Designers/Opdracht%203/versie%203)
 
-![Versie 1](https://github.com/LisaOttenhof/Frontend-voor-Designers/blob/master/Opdracht%203/images/versie1.png)![Versie 2](https://github.com/LisaOttenhof/Frontend-voor-Designers/blob/master/Opdracht%203/images/versie2.png)![Versie 3](https://github.com/LisaOttenhof/Frontend-voor-Designers/blob/master/Opdracht%203/images/versie3.png)
+![Versie 3](https://github.com/LisaOttenhof/Frontend-voor-Designers/blob/master/Opdracht%203/images/versie3.png)
+
 
 
 
